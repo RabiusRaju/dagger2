@@ -1,4 +1,4 @@
-package com.tutorials.dagger2;
+package com.tutorials.dagger2.car;
 
 /**
  * Created by MD.Rabius sani raju on 6/30/22.
